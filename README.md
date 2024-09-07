@@ -1,2 +1,2 @@
-# BAX-372-Ethics-AI
-Repository for coursework in BAX 372: Ethics of AI
+# Ethics of AI Project
+Construction and Audit of an Algorithm Predicting Law School Bar Pass Rates
